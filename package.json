@@ -1,11 +1,11 @@
 {
-	"name": "exsystypes",
+	"name": "@rhaversen/exsystypes",
 	"version": "1.0.0",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/rhaversen/ExsysTypes.git"
+		"url": "git+https://github.com/rhaversen/ExsysTypes.git"
 	},
 	"scripts": {
 		"build": "tsc",
@@ -13,5 +13,12 @@
 	},
 	"devDependencies": {
 		"typescript": "^5.6.3"
-	}
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/rhaversen/ExsysTypes/issues"
+	},
+	"homepage": "https://github.com/rhaversen/ExsysTypes#readme",
+	"description": ""
 }
